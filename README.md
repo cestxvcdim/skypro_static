@@ -1,3 +1,3 @@
-# SkyPro <img src="https://github.com/cestxvcdim/skypro_static/blob/main/icons/skypro_icon.png" width="35">
+# SkyPro <img src="https://github.com/cestxvcdim/skypro_static/blob/main/icons/skypro_logo.png" width="35">
 
 ### For exam
