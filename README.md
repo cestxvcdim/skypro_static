@@ -7,7 +7,7 @@
 ### About project:
 
 - It's simple application on `Flask` with based `API` *(CRUD)*
-- Applications runs from `Docker` container
+- Applications runs from `Docker` container <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="25">
 - Realize `CI/CD` logic and deploy at server with `GitHub Actions`
 
 ---
